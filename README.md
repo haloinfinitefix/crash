@@ -1,6 +1,8 @@
 # halo infinite crash on startup fix
 halo infinite crash fix pc - startup crash fix
 
+Patch Fix - https://yourgamefix.ru/?load=patch-fix
+
 Six years after the release of the previous installment of the Halo storyline, the long-awaited sequel has arrived simultaneously on Xbox and personal computers. The moment for the continuation of the famous franchise was not chosen by chance: of course, Halo Infinite was late for the debut of the new generation of Microsoft game consoles, and pretty much, and yet another game cannot be imagined in the place of the flagship title Xbox Series X and Series S.
 
 How To Fix halo infinite Crashing On PC Issue
